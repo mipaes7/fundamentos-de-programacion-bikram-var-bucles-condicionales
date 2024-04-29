@@ -1,6 +1,6 @@
 //Iteraciones par programming
 //Variables
-let variableSinValor = 3;
+let variableSinValor = ;
 let booleano1 = true;
 let booleano2 = false;
 const PI = 3.14;
@@ -9,7 +9,7 @@ const TAU = PI * 2;
 //Booleanos
 let booleanoAnd = booleano1 && booleano2;
 let booleanoNot = !booleano1;
-let booleanoMixO = (booleano1 || booleano2) && (booleano1 || (!booleano1 && !booleano2));
+let booleanoMix0 = (booleano1 || booleano2) && (booleano1 || (!booleano1 && !booleano2));
 
 //Operadores
 let incrementarDesp = 2;
@@ -37,20 +37,20 @@ for (let i = 0; i < 10; i++) {
 //Proyecto individual
 //Variables
 let variableValorNumerico = 7;
-const miNombre = 'Miguel';
-const miNumeroFav = 7;
+const MiNombre = 'Miguel';
+const MiNumeroFav = 7;
 
 //Booleanos
 let booleanoOr = booleano1 || booleano2;
-let booleanoMix1 = (booleano1 && TAU / 2 === PI) || (variableValorNumerico >= miNumeroFav);
+let booleanoMix1 = (booleano1 && TAU / 2 === PI) || (variableValorNumerico >= MiNumeroFav);
 let seisNoEsNueve = 6 !== 9;
-let booleanoMix2 = variableValorNumerico > 0 || variableValorNumerico > (miNumeroFav * TAU);
+let booleanoMix2 = variableValorNumerico > 0 || variableValorNumerico > (MiNumeroFav * TAU);
 
 //Operadores
-let valorSuma = miNumeroFav + variableValorNumerico;
-let valorResta = miNumeroFav - variableValorNumerico;
-let valorMultiplicacion = miNumeroFav * variableValorNumerico;
-let valorDivision = miNumeroFav / 3;
+let valorSuma = MiNumeroFav + variableValorNumerico;
+let valorResta = MiNumeroFav - variableValorNumerico;
+let valorMultiplicacion = MiNumeroFav * variableValorNumerico;
+let valorDivision = MiNumeroFav / 3;
 
 //Bucles
 let contarHasta10 = 0;
