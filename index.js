@@ -1,6 +1,6 @@
 //Iteraciones par programming
 //Variables
-let variableSinValor = ;
+let variableSinValor  ;
 let booleano1 = true;
 let booleano2 = false;
 const PI = 3.14;
